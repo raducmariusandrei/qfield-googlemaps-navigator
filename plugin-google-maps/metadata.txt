@@ -1,9 +1,0 @@
-[plugin]
-name=GoogleMapsNavigator
-title=Google Maps Navigator
-description=Select a point on the map and open Google Maps routing to it
-author=Marius Raduc
-version=1.0
-qfield_min_version=3.0
-type=app
-main_qml=main.qml
